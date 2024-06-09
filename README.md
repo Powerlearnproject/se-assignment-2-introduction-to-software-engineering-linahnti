@@ -16,7 +16,7 @@ What is software engineering, and how does it differ from traditional programmin
 
 Software Development Life Cycle (SDLC):
 
-It ia a methodology that defines design, development, and testing the entire process of software development step by step. It simply outlines the whole process of developing a software system.
+It is a methodology that defines design, development, and testing the entire process of software development step by step. It simply outlines the whole process of developing a software system.
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
@@ -143,6 +143,7 @@ Undefined Goals: When goals are not clearly identified, the whole project and te
 Scope Creep: occurs when a project's scope grows beyond its original objectives. 
 Improper Risk Management: 
 Poor Communication: can lead to significant project management problems whereby the team members cannot commuincate effectively.
+Impossible Deadlines
 
 Software Maintenance:
 
