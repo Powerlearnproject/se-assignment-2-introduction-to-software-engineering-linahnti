@@ -124,11 +124,47 @@ Features: Interactive conflict resolution
           Atomic commits
           Cheap branching and tagging
 
+9. Software project Management
+Software maintenance is the process of changing, modifying, and updating software to keep up with customer needs.
+Types:
+a. Corrective Maintenance -  this type of software maintenance is carried out to correct bugs and other such 
+problems that are usually reported by users or arrived at by studying error reports.
+b. Adaptive Maintenance: This includes all such updates and modifications that are required to keep the software
+product up-to-date so that it adapts well with the ever-changing technological world.
+c. Perfective Maintenance: This type of software maintenance is carried out to keep the software functionable for
+a long time. It includes modification to include new features and requirements to make the software more reliable.
+d. Preventive Maintenance: Preventive maintenance is carried out to prevent any future problems that may arise in 
+the functioning of the software. It attends problems that have not specifically caused any problem at the present 
+but may cause issues in near future.
+Importance:
+Correct errors.
+Change in user requirement with time
+Changing hardware/software requirements.
+To improve system efficiency.
+To optimize the code to run faster.
+To modify the components.
+To reduce any unwanted side effects.
+Adapts to Changing Environments.
+Extends Software Lifespan.
 
-
-
-
-
+10. Ethical considerations in software engineering
+a. Algorithmic bias -  Creating algorithms that are fair and unbiased, avoiding discrimination. For example Google 
+was recently criticized for perpetuating systemic racism when it was discovered that their image processing technology
+couldn’t accurately represent black and brown skin tones in photos.
+b. Personal data collection - major ethical dilemma in software engineering is how data is collected and managed.Many
+businesses generate revenues by sharing user data unethically.
+c. Weak security protection - Hackers can cause lasting damage to real people and companies. Software engineers should 
+address security during development and after code release, rather than focusing strictly on getting the product to market.
+d. Transparency and Accountability -  Being transparent about the capabilities and limitations of software, and taking
+responsibility for its impact.
+How to adhere:
+Practice Responsible Software Release -  Prioritize fixing critical bugs and addressing security vulnerabilities before deployment.
+Report and Address Ethical Violations - Take reported concerns seriously and investigate promptly, implementing corrective measures
+as needed.
+Maintain Transparency with Stakeholders -  Provide detailed documentation and disclosures about the software’s functionality and 
+decision-making processes.
+Ensure Fairness and Avoid Bias - Use diverse data sets and conduct fairness assessments regularly.
+Implement Strong Data Protection Measures - Ensure robust data encryption, access controls, and regular security audits.
 
 
 
